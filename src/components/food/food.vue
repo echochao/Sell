@@ -53,6 +53,7 @@
 						<div class="no-rating" v-show="!food.ratings || !food.ratings.length">暂无评价</div>
 					</div>
 				</div>
+      </div> 
 		</div>
 	</transition>
 </template>
