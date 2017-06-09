@@ -61,7 +61,7 @@
 					<i class="icon-close" @click='hideDetail'></i>
 				</div>
 			</div>
-		</transiton>
+		</transition>
 	</div>
 
 </template>
