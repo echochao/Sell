@@ -8,7 +8,7 @@
 		<div class="switch" :class="{'on': onlyContent}">
 			<span class="icon-check_circle" @click="toggleContent"></span>
 			<span class="text">只要有内容的评价</span>
-		<div>
+		</div>
 	</div>
 </template>
 
